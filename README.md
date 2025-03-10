@@ -36,4 +36,5 @@ Getting started with the Go game is simple since it’s a web-based project with
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/go-game.git
+   git clone https://github.com/KennyKe0706/Go-Game.git
+   
