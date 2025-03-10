@@ -1,0 +1,9 @@
+#board {
+  background-color: #d2b48c; /* Tan color for a wooden board look */
+  margin-left: 80px;
+}
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
