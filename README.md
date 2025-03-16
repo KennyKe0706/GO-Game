@@ -78,9 +78,7 @@ Here’s an overview of the project files:
 go-game/
 ├── index.html       # The main HTML file that structures the game interface.
 ├── styles.css       # Stylesheet for the board, stones, and UI elements.
-├── script.js        # JavaScript file containing game logic, turn handling, and capture detection.
-└── screenshots/
-    └── gameplay.png # Example screenshot of the game
+└──  script.js        # JavaScript file containing game logic, turn handling, and capture detection.
 ```
 
 ---
